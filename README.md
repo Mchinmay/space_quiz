@@ -1,2 +1,2 @@
 # space_quiz
-space quiz - play a fun stats quiz fun
+space quiz - play a fun stats quiz fun test
